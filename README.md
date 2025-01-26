@@ -15,3 +15,7 @@ Greetings on my GitHub profile! I'm a B.Tech student majoring in Artificial Inte
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+#### 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]
